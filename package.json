@@ -1,0 +1,23 @@
+{
+  "name": "DeFi-Money-Legos",
+  "version": "1.0.0",
+  "description": "DeFi Application Using Money Legos",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akashbhardwaj04/DeFi-Money-Legos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akashbhardwaj04/DeFi-Money-Legos/issues"
+  },
+  "homepage": "https://github.com/akashbhardwaj04/DeFi-Money-Legos#readme"
+}
