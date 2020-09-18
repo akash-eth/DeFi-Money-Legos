@@ -1,5 +1,5 @@
 {
-  "name": "DeFi-Money-Legos",
+  "name": "defi",
   "version": "1.0.0",
   "description": "DeFi Application Using Money Legos",
   "main": "truffle-config.js",
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/akashbhardwaj04/DeFi-Money-Legos/issues"
   },
-  "homepage": "https://github.com/akashbhardwaj04/DeFi-Money-Legos#readme"
+  "homepage": "https://github.com/akashbhardwaj04/DeFi-Money-Legos#readme",
+  "dependencies": {
+    "@studydefi/money-legos": "^2.3.7"
+  }
 }
